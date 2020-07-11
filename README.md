@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align='center'>
+<img align='left' src="https://visitor-badge.glitch.me/badge?page_id=6923403.visitor-badge">
+ <p/>
