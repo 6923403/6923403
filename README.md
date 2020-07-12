@@ -1,4 +1,4 @@
-### Play & Relaxed 👋
+### Play & Relaxed(chrome://dino) 👋
 
 ![image](https://s1.ax1x.com/2020/07/12/U8CpgP.gif)
 
