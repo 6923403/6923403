@@ -1,6 +1,6 @@
 ### Play & Relaxed 👋
 
-![image](https://github.com/6923403/6923403/blob/master/material/jump.gif)
+![image](https://s1.ax1x.com/2020/07/12/U8CpgP.gif)
 
 <!--
 **6923403/6923403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
