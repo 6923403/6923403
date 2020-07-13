@@ -1,4 +1,4 @@
-### Play & Relaxed (chrome://dino and click space) 👋
+### (chrome://dino and click space) 
 
 ![image](https://s1.ax1x.com/2020/07/12/U8CpgP.gif)
 
