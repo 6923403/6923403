@@ -17,6 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align='center'>
-<img align='left' src="https://visitor-badge.glitch.me/badge?page_id=6923403.visitor-badge">
- <p/>
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=6923403.visit)
