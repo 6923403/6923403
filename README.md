@@ -1,6 +1,6 @@
 ### (chrome://dino and click space) 
 
-![image](https://github.com/6923403/6923403/blob/master/material/natural.gif)
+![image](https://github.com/6923403/6923403/blob/master/material/natural2.gif)
 
 <!--
 **6923403/6923403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
