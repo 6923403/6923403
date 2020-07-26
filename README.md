@@ -1,4 +1,4 @@
-### (chrome://dino and click space) 
+### Calm down heart, appreciate Natural .
 
 ![image](https://github.com/6923403/6923403/blob/master/material/natural.gif)
 
