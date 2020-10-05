@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![VcVc's github stats](https://github-readme-stats.vercel.app/api?username=6923403&show_icons=true&hide=stars&theme=graywhite)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6923403&layout=compact&hide=html,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6923403&layout=compact&hide=CMake,html)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
